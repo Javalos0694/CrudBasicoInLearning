@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudBasico.Infrastructure", "CrudBasico.Infrastructure\CrudBasico.Infrastructure.csproj", "{7C35C082-FED1-4386-A9E8-5F50C692E21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudBasico.API", "CrudBasico.API\CrudBasico.API.csproj", "{360838CF-F628-4370-83FC-D1B0E9F7634F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C35C082-FED1-4386-A9E8-5F50C692E21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C35C082-FED1-4386-A9E8-5F50C692E21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C35C082-FED1-4386-A9E8-5F50C692E21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C35C082-FED1-4386-A9E8-5F50C692E21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360838CF-F628-4370-83FC-D1B0E9F7634F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360838CF-F628-4370-83FC-D1B0E9F7634F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360838CF-F628-4370-83FC-D1B0E9F7634F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360838CF-F628-4370-83FC-D1B0E9F7634F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {952F82AE-4691-4399-8E88-9F17FA792973}
+	EndGlobalSection
+EndGlobal
